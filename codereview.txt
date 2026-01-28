@@ -1,0 +1,41 @@
+# In HTML 
+
+1 - write anchor tag like this
+
+	<a href="/projects">Visit Our Properties</a>
+
+	and not like this
+	     <a href="#"><span>Visit Our Properties</span></a>
+
+--> Remove the span tag
+
+2 - don't put pngs for small images, convert them into data uri
+
+
+# In SCSS
+1	avoid using multiple values for margin/padding - 
+	like this
+		padding: 0 5%;
+		padding-top: 10rem;
+		padding-bottom: 6rem;
+
+2	try to use shorthand like this
+		padding: 10rem 5% 10rem;	
+
+3	for display: flex; flex-direction: row: is default
+
+4 	carefully look into the screen in each section , some sections look absurd
+give them required padding, margin to make it look appropriate
+
+5 replace width with max-width better for responsiveness
+
+6 name the classes properly, box1 then box2 ...etc
+
+7 if font size decreases then line height also decreases in that ratio
+
+8 always put background-size: either 100%, or 100% 100% or cover.
+
+9 background-position: x y
+
+x - top/bottom/center
+y - right/left/center
