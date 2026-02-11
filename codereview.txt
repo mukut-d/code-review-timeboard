@@ -38,4 +38,8 @@ give them required padding, margin to make it look appropriate
 9 background-position: x y
 
 x - top/bottom/center
+
 y - right/left/center
+
+10 -> Always give margin padding to container not the <h> or <p> they will always have the property of
+		margin: 0; padding: 0;
