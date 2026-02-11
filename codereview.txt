@@ -43,3 +43,5 @@ y - right/left/center
 
 10 -> Always give margin padding to container not the <h> or <p> they will always have the property of
 		margin: 0; padding: 0;
+11 Aisa style krna hai ki outer ko margin padding de toh inner containers apne app set ho jai.
+
