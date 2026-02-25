@@ -33,3 +33,70 @@ body {
 		opacity: 0.8;
 	}
 }
+
+for 10 11th
+
+section 1 will contain 2 boxes
+
+1 box will contain from future till capital market 
+
+2 box will contain contents intro etc
+
+section for related articles
+
+box 1 will contain 4 subboxes
+
+workfoce will be subbox 3
+ are you a subscriber in subbox 4
+
+# don't put modified stuff on live website
+# make temporary page for all the changes that ypu put in live website
+
+
+ISSUE -
+
+In Box 2 - table of contents - margin left is occuring 
+for default in ol tag
+
+in firefox - sihub1 - box 1 - subbox 4 it is not coming on center - done
+in chrome - sihub1 - box1 - subbox 4 it is coming on center - done
+
+same thing happening for demo 2nd section last blue button view all insights - done
+
+
+Good website for box shadow
+
+https://getcssscan.com/css-box-shadow-examples
+
+-- search bar me shadow dena hai
+
+ihub4
+
+inside itm-ctr -> itm - done
+
+will be inside a tag all items will be clickable links - done
+
+Also table contents will be <a tag - done
+
+inside li there will be <a> tag - done
+ 
+ihub3 will be <a> tag  - done
+
+copy the js for faq section to the pricing plans page so that faq section 
+works like the rest of the website - THIS is part is left
+
+use the arrow operator > to target the immediate tag when you have many nested tags 
+
+add 20 more articles in the articles app to see load more
+
+
+[data-controller="marketing--articles--loadmore"] a
+ {
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px 15px;
+    background: rgb(33, 33, 33);
+    border-radius: 3px;
+    margin: 20px;
+}
