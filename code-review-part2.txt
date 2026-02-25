@@ -1,0 +1,35 @@
+don't put anything in common html scss, javascript in the body part like this that you did it in veritatis
+
+body {
+	background-color: #090a0f;
+	
+	h1,
+	h2,
+	h3,
+	h4,
+	p {
+		margin: 0;
+		padding: 0;
+		color: #ffffff;
+	}
+	
+	ul {
+		margin: 0;
+		padding: 0 20px;
+		
+		li {
+			color: #ffffff;
+		}
+	}
+	
+	a,
+	span {
+		color: #ffffff;
+	}
+	
+	.disabled {
+		cursor: pointer;
+		pointer-events: none;
+		opacity: 0.8;
+	}
+}
